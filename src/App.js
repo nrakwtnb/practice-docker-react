@@ -9,7 +9,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          new line added in feature branch !
         </p>
         <a
           className="App-link"
@@ -18,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Hi there
+          new line added in feature branch !
         </a>
       </header>
     </div>
